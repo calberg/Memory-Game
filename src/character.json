@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Peach",
+    "image": "characterImg/Peach.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Luigi",
+    "image": "characterImg/Luigi.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Mario",
+    "image": "characterImg/Mario.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Toad",
+    "image": "characterImg/Toad.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Yoshi",
+    "image": "characterImg/Yoshi.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Wario",
+    "image": "characterImg/Wario.png",
+    "count": 0
+   
+  },
+  {
+    "id": 7,
+    "name": "Donkey Kong",
+    "image": "characterImg/DonkeyKong.PNG",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Toadette",
+    "image": "characterImg/Toadette.PNG",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Waluigi",
+    "image": "characterImg/Waluigi.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Diddy Kong",
+    "image": "characterImg/DiddyKong.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Bowser",
+    "image": "characterImg/Bowser.png",
+    "count": 0
+   
+  },
+  {
+    "id": 12,
+    "name": "Goomba",
+    "image": "characterImg/Goomba.png",
+    "count": 0
+  }
+]
